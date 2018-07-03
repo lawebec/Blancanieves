@@ -1,3 +1,7 @@
 aa
 nuevo texto
+<<<<<<< HEAD
 cambio desde local
+=======
+otra linea mas
+>>>>>>> 841676192463829c628a13294c3abe195470b7ae
